@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html>
-     <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
-<link rel="stylesheet" href="master.css">
-<SCRIPT src="script.js"></SCRIPT>
+<head>
+    <title> Calendar </title>
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="css/master.css">
+
+    <!-- Javascript libs  -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Custom script  -->
+    <SCRIPT src="js/script.js"></SCRIPT>  
+</head>
 <body>
     <div class="info message">
             <h3>Data Added!</h3>
